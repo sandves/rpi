@@ -1,5 +1,5 @@
-#ifndef TUXX_H
-#define TUXX_H
+#ifndef TRAFFIC_H
+#define TRAFFIC_H
 
 #define RED 		4
 #define YELLOW		17
@@ -17,4 +17,4 @@ void graceTime();
 void startTraffic();
 void delay (unsigned int howLong);
 
-#endif /* TUXX_H */
+#endif /* TRAFFIC_H */
